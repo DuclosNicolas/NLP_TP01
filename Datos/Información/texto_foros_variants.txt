@@ -1,0 +1,749 @@
+Nice concept. Pretty simple and clean.
+
+OTOH, I think 6 player isn't as bad as folks think. We just played one yesterday and it went just fine. I am sure it takes somewhat different tactics, but thats part of the fun... I think.
+Has not been an issue in the many games we have played.
+We had one 2p game recently where I won by a huge margin as I was able to keep playing to 100% efficiency choosing all the right resources. As stated above, that's because I played better than my opponent. If you remove this advantage then it becomes a race to score as quickly as possible and then finish the game before anyone else could catch up. That would ruin this brilliant game by totally changing the strategy and rewarding less efficient play.
+I was thinking maybe doing a draft (especially with 2 players) for resources in this game and was wondering if anyone else had looked into this as well? With 2 players it would be 4 sources drafted ABBA whereas others might be players+1 or even, hear me out here, Coloretto style press-your-luck drafting. Thoughts?
+All the other buildings have 3 or 4 options for them (depending on if you're playing solo or not) but the cottage only has 1, the cottage. It would be nice if there was another building you could make in its place.
+
+I guess the hard part is what could you change other then the V. Only idea I have is to make the points dependent based on how many you have in a continuous line. It could break down as:
+
+1: 3 points
+2: 7 points
+3: 10 points
+4: 14 points
+etc
+
+Or something like that.
+
+Any other ideas?
+Have played the game about five times. One problem is players ignoring the black buildings, since they are time consuming and don’t provide direct points. Another problem I have seen is imbalanced monuments.
+
+This is a Variants thread, so I am not here to discuss whether my perceived problems are actually problems in the game. They are for me and my friends.
+
+I will be trying the following variants.
+
+One, each player starts the game with a black building already constructed in the space of their choice.
+
+Two, handle the monuments differently. One way would be to put a single monument card in the middle of the table. Everyone can build that monument. Another way would be to put multiple Monument cards in the center of the table face up, then let people race to be the first and exclusive builder of that monument.
+- Grey Stone. Borrowed stone tokens from Caverna
+
+How Did it Work?
+Generally I like the change from small cubes to realistic resources. The Glass and Wood, in particular, are sized appropriately, colors match quite well, and the change added to my enjoyment of the game. But during gameplay I did run into a few issues, some of which surprised me.
+
+Component Sizes. Most new resource components I used are quite a bit bigger than the provided cubes. One ramification is that combining the resources to build a building didn’t feel quite the same, as these resource tokens are as big (or bigger) as some of the buildings. Stone, in particular, is larger than the Well it creates, so this could result in some confusion. Of course, using a smaller stone component would address this issue.
+
+The other nuanced issue is the use of the Warehouse to hold components for use on later turns. The original design holds up to three cubes very nicely. As you can see, stacking the upgrade resources can be a big more challenging (maybe introducing a dexterity variant?). This is easily solved by simply placing the components in the same square as the Warehouse, but I consider that a downgrade from the original. As mentioned above, smaller components could address this issue.
+
+Color Matching. The Top Shelf Gamer bricks are amazing and highly recommended. For this purpose, though, I introduced a new color vision issue that made part of the game harder for me as a colorblind gamer. The bricks I added are much darker than the cherry red of the original cubes. On the table this caused me confusion between red and brown as I matched the bricks to the correct squares on the cards. I had to think harder about making sure I used those two colors correctly.
+
+I could fix this pretty easily by painting the bricks to match the cards or adding three small dots to the red squares on the cards (evoking the holes in the brick). Either would probably solve the problem for me.
+
+The Cards. For this modification I did not mark up the cards, which remain colored squares that provide the blueprint/recipe for each building’s resources and their configuration. This makes my mod incomplete, as a fully colorblind person would need to add symbols or fully replace the art with shaped symbols representing the resources.
+
+Other Ideas. As I was putting together this modification, I also had the opportunity to communicate with
+Yes ending the game early because one player did poorly would not be rewarding for those remaining. We play with the random cards instead of calling out cubes. When one player is left, he continues to use the card deck which I think is not as devastating
+A third option (unstated in my first post) is multiple public monuments available to build, and each player can pick one to build, and players can build the same monument that was build by other players.
+Did I actually make the game more accessible? Well, yes and no.
+
+Pros. I love a lot of things about this new setup for my copy of Tiny Towns. It looks fantastic, and it adds another element of theme to the game. Also, I didn’t modify the original components, so if someone wanted to play the original version, it is available with no changes.
+
+Cons. The primary downside is cost. If you don’t have other games around to borrow components, the price of the upgrades would be higher than the game itself. And as I shared, sometimes attempting to make a game more accessible can introduce new problems, like the upgraded bricks I selected that are not a good color match to the original cubes or cards.
+
+In the end, I’m glad I upgraded my Tiny Towns experience, and along the way made it easier for me and other colorblind gamers to play.
+I haven't tried it, but this variant sounds great. It's definitely a bit too random and 6 (and a bit too cutthroat with just 2 IMO).
+Hehe, I started this exact topic a while back It's my preferred way for solo play:
+Yes, I'm aware of the benefits of black buildings. I still think my variant would improve game play.
+
+On the subject of monuments, it's impossible to be unaware of what others are going for. It's right in front of you.
+
+Also on the subject of monuments, I proposed two different ideas. One is to all build the same monument. Another is to race for various monuments.
+
+A third option (unstated in my first post) is multiple public monuments available to build, and each player can pick one to build, and players can build the same monument that was build by other players.
+How about a variant where the building you construct acts as a permanent resource of the colour matching the building for the rest of the game. So for instance, if I made a blue building, for the rest of the game that blue building also acts as a blue cube that will help me build future buildings.
+
+For instances where a coloured cube does not match a building colour it is considered wild. For example, there are green buildings but not green cubes. Therefore, for the rest of the game that green building will act as a wild resource and act as any colour.
+
+Pros: Makes the game even faster. Less restrictive as adding more buildings now helps rather than blocks constructing new buildings
+
+Cons: Do not know how balanced this would be.
+I think this would work fine. Pete and I tried something like this earlier in development. But I think there should be a way to recycle the villagers. You could play where you start with four villagers that don't move and all the abilities cost one more, but the villager recycle. Let me know what you try!
+Other Solo Automas I've Created
+or you have to play the cubes in the order you draft them? I dunno, maybe still too easy. They all have to be played adjacent to one another? Worth some thought.
+
+Either way I still think ABBA drafting would be good for 2 players.
+I think it would work.
+
+ABBA might be the way to go, but with the Caverns rule, I think it could be especially good to just draw a number of cubes from the bag equal to the number of players, and take cubes in turn order.
+
+There's another option of drawing cubes equal to the number of players +1, but that might be too loose.
+I want to preface this by stating that not having a 5x5 grid printed on the back of the player boards was a missed opportunity. The backs are just blank. Maybe for the next print run?
+(snip)
+I expect it to be great for a solo and 2p game. With more players I fear we'll encounter component shortages.
+). To address color vision issues in that game, the publisher is producing “cubes” that are uniquely colored and shaped, similar to the rendition in this image. This clever idea has me thinking about new ways to make games accessible.
+One of my favorite “solo modes” is playing against people on YouTube
+I like achievements in both PC and tabletop games (Cascadia, Calico)
+
+It would be nice to have some achievemnts list also for Tiny towns.
+
+Win game without Monument, Win game with max 3 type of buildings, win game with at least one buipding of each type, win game with only one empty space, win game wirh at least 4 empty spaces
+
++
+Use set of those specific buildings and have at least X points etc.
+
+Ok, probably I have "created" it now. The last type of achievement would need some playtesting.
+I was thinking of a variant where the master builder draws 3 cards from the resource deck, reveals 2 and each player gets to choose one of them. That gives all players some agency each turn and still provides a benefit to the master builder.
+
+Another idea is for each player to just be able to ignore 1 resource call each cycle (until they become the master builder again). They would have placed less cubes total which opens up a new choice: do I risk getting a not-perfect cube or do I risk getting behind on building stuff.
+Just curious why you discard the 5 top cards?
+I'm happy to report this worked out really well. It plays as good as a 4x4 grid but the game is extended. The game got tight as spaces were filled up as expected.
+
+I used the Town Hall variant for my solo play. This is my preferred method for solo play.
+
+I scored 53 points using the following cards:
+
+Trading Post (I built this early and plopped it down on the middle of the board.)
+Cottage
+Cloister
+Tavern
+Market
+Well
+
+My Monument card was Grove University, but I didn't build it.
+Sounds like an interesting idea. I would suggest making the centre 4x4 area of the 8x8 grid the focus of the cooperation and score it as if it was a regular player board. Maybe it needs to score above a certain amount, and players can't communicate (like in
+You will encounter component shortages. Not a 'missed opportunity' therefore, a deliberate decision, I presume.
+That's interesting that you say that, but yet you say your whole table avoids using them. That implies that your group finds no benefit in them. Seriously, I would say in your next game you should force yourself to build them (just you, don't say anything to others) and build them early. I'm not saying it's the perfect solution for every game, but in a game where nobody else builds them, if you knock out two trading posts or two factories, it's going to be a fun game at least for you!
+I haven’t made up my mind yet whether to buy the expansion, but in the meantime I decided to try how the coins rule will work with the base game (so no extra cards with coins-related abilities). As I understood it, it is basically that you gain a coin if you build 2 or more buildings at the same time/on the same turn; then you can spend a coin to replace a resource that was declared to another one. Each unused coin scores you a point at the end of the game. I used some extra cubes for the coins.
+
+Basically, it worked pretty well and of course it makes the game easier because it allows you to develop your strategy without being too constrained by unwanted resources. In the beginning of the game it was usually possible to accumulate 3-4 coins, while at the later stages this is difficult because the limited space obliges you to build each building as soon as you have the resources in place.
+Also on the subject of monuments, I proposed two different ideas. One is to all build the same monument. Another is to race for various monuments.
+COLORBLIND MODIFICATIONS
+You kept doing that when people have to pass too?
+Looking forward to trying this out Mark ... great job! Thanks for making this.
+Yes, I'm aware of the benefits of black buildings. I still think my variant would improve game play.
+Since it seems you really like to try new variants, I think you can apply the way Tussie Mussie does the drafting (works only with 2, do not know if it works good with 3/4):
+
+Shuffle all the cards in a deck face down.
+Master builder draw 2, look at them then put one face up, and the other face down.
+Other player chooses one card to build, the remaing goes to the Master Builder.
+https://boardgamegeek.com/filepage/209338/automa
+
+Une façon différente de jouer en solo
+(who is colorblind himself) described his design and development processes, including his review of an early set of components.
+
+“There was one (briefly terrifying) point when we got back the latest version of the cards and I couldn’t tell the red and brown apart. We tweaked them until they appeared as distinct as possible to me…”
+That is the original way the town hall variant is setup in the rulebook. The idea being that otherwise if you were to "count cards" you will know what the final resources in the deck will be. Discarding 5 of them makes sure that you will never know what may or may not show up (except for when you know that the number of cards of a certain resource are already showing of course).
+The two Tinies variant sounds interesting, have you been able to try it out yet?
+How did the games went?
+Randy Flynn
+Just played for the first time last night - It's kind of similar to Karuba in that sense. Have you tried the draft variant yet?
+Once one of the players receiving a master builder token has to pass, that token is removed from play and the remaining token is used to finish the game.
+Can't see why not. I don't recall any cards being specific to player count. Maybe where it gets complicated is you would be waiting more rounds to call out the resource you want and perhaps that leads to higher difficulty of optimizing your spaces. I would suspect 2-3 players will run away with the high score and all of the others will get pinched on trying to meet their goals. Just theorizing.
+
+Regardless, might still be fun with a big group! 7 or 8 is just above the max of 6 players, so maybe the impact is low.
+The only limitation on player count is components. You can play this with as many people as you like. Larger player counts dilute the element of picking resources that are useful to you but not other players.
+GAMEPLAY
+Tabriz
+I don't think copying is an issue with this game There are so many options, and anyone who simply copies will almost certainly lose as the one they're copying will have a monument card that the copier won't benefit from.
+
+If you're playing without monuments, then yeah this would be an easy way to ensure that everyone will have a different board.
+I fully understand the burn out. Games should never feel like a chore, and taking breaks is a good thing. If and when you do make it back to the world of solo gaming, here’s hoping it’s just as enjoyable for you as it was before.
+Nice one, Mark. This automatically automa looks fantastic and I'm definitely going to use it.
+Prerequisite:
+1. 2 boxes of Tiny Towns
+2. 7-8 players
+
+Setup:
+1. Start with the usual setup for a master builder game.
+2. Shuffle 30 resource cards (15 from each box), and deal 2 cards to each player. Form a draw deck with the remaining cards.
+3. Players will secretly pick resource card from their two choices, and reveal it simultaneously. They must now build the resource specified on the card immediately on their board. Players should keep the other resource card (the one not played) in their hand. The played resource card should be placed on the discard deck.
+
+Changes to a Round:
+1. Before the master builder names a resource, the master builder will pick up a resource card from the draw deck. If he/she has more than two resource cards in their hand, they must discard down to two. If the draw deck is empty, shuffle the discard deck and form a new draw deck.
+2. Players now have a choice to play a resource card from their hand and play the corresponding resource instead of the resource called by the master builder. The played resource card is moved to the discard deck.
+
+Example: The master builder, Alice, calls Brick. Bob holds the Wheat and Stone resource card in his hand. Bob can play the Wheat resource card so that he may instead place the Wheat resource in his town.
+
+3. Players may also play 2 resource cards at the same time to grab any cube of their choice and place it in their town.
+
+Example: The master builder, Alice, calls Brick. Clive holds the Brick and Glass resource card in his hand. Clive can play both resource cards so that he may instead place the Stone resource in his town.
+
+4. Once a player has completed his/her town, all remaining players may no longer draw a resource card when they are the master builder. However, they are allowed to spend the resource cards already in their hands.
+
+5. For 5-6 players, each player's hand limit is reduced to 1, i.e., it is no possible to play two resource cards to get a cube of their choice.
+
+Discussion:
+This variant was designed to bring master builder into high player count games so the game does not play like multiplayer solitaire. The most important advantage with this setup is you get the option to call a resource that will inconvenience your opponents. The resource cards are meant as a way to have some control over the called resource when you are not the master builder (in a 7 player game, 6 resources will be called by your opponent before it gets back to you!). As a way to mitigate bad luck, players can use two resource cards as wild. Once a player has been eliminated, the game enters the next phase where we want to expedite the end game condition, and thus we no longer allow players to draw resource cards past this point. I believe this variant adds a new layer of strategy for managing your resource cards.
+
+The additional setup step is introduced to cause some asymmetry in the players' starting boards. This helps reduce the likelihood of implicit collusion, i.e., two or more players helping each others out by having identical boards, which I have occasionally observed in some vanilla playthroughs.
+Larry, I'm not going to address each comment of yours.
+
+I'll just state that in no way do I agree that this is a "light" game. It might appear to be at first glance. It is not.
+
+As to your comment that I should play more before trying these variants, my retort is that perhaps you should try these variants a few times before rejecting them. Or, if you're not going to try them, why are you here on this Variants Forum?
+
+I had thought that a Variants Forum was more a place to throw out new ideas and TRY THEM if you feel like it and see if you enjoy the game more with the variant, and less a place to criticize new ideas without trying them.
+
+And just to head off or attempt to head off what is coming next .. I very rarely create variants. And even less rarely so early in my time with a game. I respect and honor the time that developers put into the game. Despite all that, my misgivings and ideas for improving this game (FOR ME AND PERHAPS FOR SOME OTHERS) stand.
+HERE
+My proposal for a great 2 player experience: on each players turn they draw 2 cards. They then pick the resource they want and the other player gets the other. And so on. I think it adds a second choice layer on top of where you place the chosen resource. I felt it still had the oh darn moments of picking a single card but just enough power that it felt exciting to be able to choose your preferred resource of the two drawn on your turn. And it also means both players are going to get different resources and will possible be pursuing different resources at different times. Anyways I could go on. But we played it a whole lot over the past camping weekend. And it felt the most fun this way.
+
+Backstory of why we tried this.
+When I was first shown the game we played the standard way where each player picks a resource of their turn. Right I away I thought that it would be not the best way to play the 2 player game. But the single card shared draw for the resources also felt just slightly unsatisfying for some reason I can’t quite put my finger on so I thought easy change. Draw 2 pick 1 give the other.
+Hi
+
+Interested to see which option people find best for the below player counts and why (master builder or town hall variant)
+
+2p
+3-4p
+5-6p
+
+Looking to maximise the fun element, so do you find the “take that” option of master builder better or the combined groans of another unneeded glass coming out for everyone on town hall variant better?!
+
+Also - has anyone considered maybe drawing everyone a random resource card from the deck before starting the game to ensure different strategies from the off?
+
+Great to hear any comments people may have
+In Tiny Towns, you are the mayor of a tiny forest town (represented by a 4×4 grid). By placing resource cubes (wood, brick, etc.) in specific layouts, you can construct buildings on that site. Each building scores in a different way, sometimes interacting with other buildings in your town. Cubes are selected by a Master Builder (similar to a first player token) or cards can be flipped randomly, depending on play style and player count. Tiny Towns has an excellent solo mode, and the card-flip game type allows for near-infinite player counts as long as components are available.
+Thanks, I think I will play a few more games with the regular rules but may try the 'Town Hall' rules soon as I have already achieved some pretty high scores.
+Between 2 Tinies (Semi Co-op):
+Works like the game of between 2 cities, up to 6 players: each board is shared between 2 players, so each player has a shared board each on their left and right side. Step 1: Each player takes two resource cards, and grabs the colored cubes according to the cards, then everyone works together to decide where to put their cubes on their shared boards, players can put one cube each on their two boards or both their cubes in the same board but cannot save a cube for later use. Step 2: Each player takes one cube of their choice at the same time and puts it on one of their two boards. Then reshuffle all resource cards and repeat Step 1 and Step 2 until all town is fully built. Players can keep building their town even if other towns are finished by doing the order of step 1 & 2. Monument cards are designated to the boards instead of the players. Each player will have the score of the lower of their two boards. If tied, compare the score of their second board. If still tied, then victory is shared.
+
+Solo Cascade:
+Basically the same as the official solo mode, just that after choosing a resource card, you display it neatly according to their colors, making 5 discard piles of 3 of the same resource cards, face up. This way, you know how many cards of that particular color is left in the draw deck. When draw deck is empty just reshuffle all the 5 discard piles together and make a new draw deck. This makes it a bit more definite in how you can always count that there will be 3 of the same resource in one finished deck, so the challenge will be to analyze and make plans from predicting what is left in the draw deck and easier since you don't have to remember past revealed cards. Including the "Factory" card would definitely help a lot in this mode.
+(compatible with the Fortune and Villagers expansions).
+Hope to complete an Automa for this in the next couple of months.
+Feels like to draft the resources is quite a different game... yes?
+
+At first, I thought the draft was for the monuments... but this proposal is to completely change how resources are allocated to players... am I correct?
+Any plans for
+, who are publishing
+Peter McPherson
+On the subject of monuments, it's impossible to be unaware of what others are going for. It's right in front of you.
+Hey Traci! I definitely haven’t given up on this. I just got burnt out on solo gaming in general and took the last two months off. With that said this will be the next Automa I complete so stay tuned!
+Ditto. And it also cuts out the "take that".
+That's pretty interesting, would be fun to try. It'd also make some of the monuments much more possible in the second half of the game when you're running out of space to build. Often times it feels like monuments are something to build right away or never.
+Hello. Has anybody tried using 2 seeds per player in a 3-players game?
+
+There will be more chances to have a tree at the end of the game, but I fear it could make the game too loose with 2 free resources.
+[Use the link here to see this article in its original form with images on the Colorblind Games website]
+https://colorblindgames.com/2023/01/31/colorblind-games-mod-...
+
+I previously reviewed
+My group found some of the monuments OP. I also suggested using a shared monument. I think it’s a good idea for a group that would be bothered by that.
+
+There are plenty of games that don’t have variable starts. MetroX and the default game of CoB: dice game come to mind.
+
+I really like the game and will play it anyway people want.
+
+Another option I just thought of is deal two cards to everyone. Choose one to remove from the game. Then reshuffle and deal those cards.
+One of the biggest issues we found with 5x5 is that the game is significantly easier and that many cards don’t work in a 5x5. Plus there is the question of components.
+the game becomes slower and now involves negotiations, a lot more discussion and arguments of plans, which can be funny at times. it is interesting, but it changes the game. players are more prone to counting scores midgame and more aware of other player's board and possible plans.
+For 3 players:
+- Each player gets two boards
+- Each turn, instead of just one cube, a player takes two of the same coloured cube (by card or by someone's choice)
+- The player puts only one cube each on his two boards
+- Both cube must always be in different location to his other board
+- Each player gets two monument cards, each monument can only be built on one of the boards, once.
+- End game scoring is combined from the two boards.
+
+Works for 2 players as well with 2/3 boards & 2/3 monument cards per player.
+Nope!
+The variant I suggested does not work well. The is a distribution problem. One end of the table was all blue and brown cubes, the other end had tones of yellow and red.
+I'm betting cottage variants will be coming with expansions. For me and for now, I'm happy letting that be the one constant, given all the other variations.
+Yup, this is exactly how we play all our 2-player games:
+
+1. Player 1 chooses a cube.
+2. Player 2 chooses a cube.
+3. Master Builder Deck chooses a cube.
+
+Repeat. (And if you wanted to added a second Master Builder Deck cube, that word work too.)
+
+Makes the game more of fun and non-gamer-friendly with the randomness.
+I agree with Neil, this is fantastic. Well done on the overall idea and production!
+or
+Glad you had fun trying 5x5! What game is that board from?
+
+We considered putting a 5x5 on the back, but component shortage was one reason we held off. Another is that the buildings (like Market and Tailor) do not always work well in a 5x5 grid.
+
+I do have some concepts for a 5x5 version, but it would require new building cards and possibly more building types.
+Hi Everyone. Someone on Reddit advised you might like my list of cube drafting variants using the cards!
+
+We really like Tiny Towns, but the cube drafting mechanic (either the base game or Town hall) can be hit or miss depending on the type of person you are and how tight/loose you like your game. You may prefer more direct interaction, or prefer a more solitaire experience too.
+My partner and I kept coming up with new variants on the cube selection mechanic every time we play. These are some of our favourites.
+They have only been tested at 2-player. Some will scale better than others.
+
+They are roughly ordered in simple – experimental. There are also some variants within variants!
+
+
+
+1. Cartographers Variant – (Solitaire) (scales to any player count) (smaller decision space)
+
+• Discard 5 cube cards.
+• Draw 2 cards face up to the table.
+• Everyone chooses one of the two cards to place. Repeat until deck empty.
+• Shuffle all cards back together, discard 5. Repeat.
+
+Small element of choice leading to drastically different towns.
+
+Cartographers Dice Variant 1 – Similar to above, however you roll a dice first! If it’s 1-3 then you only draw 1 card for this turn – if it’s 4-6, then you draw 2 cards to choose from.
+
+Cartographers Dice Variant 2 – Same as above except – 1-2 draw one card, 3-4 draw 2 cards, 5-6 draw 3 cards.
+
+
+
+
+2. The Small Market – (2 player) (Indirect interaction)
+
+• Deal 3 cards face up to the middle of the table, with a draw pile to the side
+• Player 1 picks a card
+• Player 2 picks a card
+• Remaining card(s) are discarded
+• Instead of taking a card from the market, player may instead take the top card from the draw deck.
+• The market is STILL refreshed entirely each round, even if 2 or both players decide to take a card from the draw deck.
+
+
+
+3. The Large Market – (2 Player) – (slightly more Indirect interaction)
+
+• Shuffle all 15 cards and deal 5 face up to the table
+• Starting with player 1, snake draft. 1-2-2-1
+• Discard remaining card
+• Deal 5 more cards
+• Starting with player 2 Snake draft 2-1-1-2 and discard remaining card
+• Deal 5 remaining cards.
+• Snake draft 1-2-2-1 again and discard remaining card
+• Shuffle all cards including discarded
+• Change first player. Repeat.
+
+Large market Variant – (not sure about this one yet)
+• Similar to above, except discard 3 random cards at the start of the round
+• Only deal 4 face up to the table
+• Means the last person in a turn has to take the remaining card and doesn’t have two to choose from.
+
+
+
+
+4. The Biblios Variant – (2 player) (interactive)
+
+• Shuffle cards and stack them
+• On your turn, draw 3 cube cards from the pile
+• Keep one
+• Give one to your opponent
+• Discard the third face up to a discard pile
+• Next person goes. Repeat. Reshuffle deck once empty
+
+Allows some element of choice and ability to mess with your opponent. Discard pile allows you to see what won’t come back around until the deck is re-shuffled.
+
+Slight Biblios Variant – Same as above but:
+• Discard card face down in a discard pile
+• Opponent can choose to keep the card you gave them or swap for the (blind) discarded card.
+
+Wild Biblios Variant – Same as Biblios but:
+• Remove 5 cards each time you shuffle the deck. (So there are only 10)
+• When you discard, you discard face down to the top of the draw pile.
+Your opponent will then get that card in their next turn, and may end up passing it back to you.
+
+
+
+
+5. The Faction – (2 Player) (Asymmetric) (solitaire)
+
+• Shuffle all 5 different cube cards and deal 1 to each player (so each person has a different card)
+• This is your FACTION
+• Keep this card, so you and the other player can see it. (This card is not in use for the rest of the game, and is just a reminder of your faction colour.)
+• Shuffle the remaining 13 cards and discard 3 randomly (You will repeat this each time the draw deck is empty)
+
+• Draw cards one at a time, face-up to the table.
+
+There are three possible turn-outs:
+
+1. If the card is YOUR faction colour – Use as a wild and choose any cube to place (note: there are only 2 cards of your faction in play as you have one representing your faction.)
+
+2. If it is your OPPONENTS faction colour – You MUST place this colour without exception.
+
+3. Any other colour cube is drawn – You can either chose to play the cube colour drawn, OR place your faction colour instead.
+
+This means you will be very strong in one particular colour, and your opponent strong in another. How you use your ‘wild’ ability can be very important.
+
+
+
+
+6. The Negotiator – (2 Player) (Highly interactive)
+• Shuffle deck and remove 3 cards
+• Create two stacks of 6 cards, one for each player
+• Turn over the top card of your personal deck face-up. You have two options:
+
+1. Place the cube of the card drawn
+
+OR
+
+2. Request to swap your card with your opponents card – If you BOTH agree, then swap cards. If your decline, then you must place your original cube. If your opponent requests to swap then you can also decline or accept.
+
+This one was really fun! Do you refuse to trade that card you know they really want? If you do, will that mean they won’t trade with you when YOU need their card. Do you risk not trading in the hope that the cube you want is in your personal draw pile?
+
+
+The Negotiator – The alliance variant – (3 Player only) (VERY interactive)
+• Create three random stacks of 5 cards. One for each player
+• Each player turns over the top card of their stack at the same time
+• You may place your cube,
+• OR
+• request to trade with either one of your opponents.
+• You can only trade once per turn so that means only two of the three people will be able to swap cards.
+• That means if you draw an orange that both other players want, you can choose who you trade with. Will the person you didn’t choose turn against you in the future?
+
+
+
+
+7. The 'Next up' Variant – (Any player count) (Solitaire)
+
+• Shuffle deck and discard 5 cards (will be re-shuffled in when draw pile empty, and another 5
+• discarded)
+• Create a draw pile
+• Turn over the top card and place in the centre of the table. This is the current card.
+• Turn over 2 more cards face up next to each other, to the right of draw pile
+• These are the ‘upcoming’ cards
+• Everyone places the current card cube colour.
+• That card is moved to a discard pile
+• The right most card is moved to the centre
+• The 2nd face up card is moved along to replace it and a new card drawn from the deck to replace that one
+Basically, you will always know what the next two cube cards are going to be.
+Whilst you have no ability to change the cards or select a colour, the knowledge of what’s coming can let you plan out ahead.
+You and your opponents get EXACTLY the same cards
+
+Gentleman Queue variant
+Removing cards from the deck can be risky, as there’s a chance certain colours will never show up, so instead:
+• Same as above, but don’t remove any cards.
+• Cycle the entire deck, then reshuffle.
+
+
+
+
+8. The Tetris hold – (2 Player, may work with more) (Solitaire)
+• Shuffle 5 different cube cards and deal 1 to each player (so each person has a different card)
+• Shuffle the remaining cards back into the deck
+• This is your starting cube. Place it on the board
+• KEEP the card in your ‘reserve’
+• On your turn, deal one card face up to you and one to your opponent
+• You have two options:
+• 1. Place the cube you were just dealt
+• 2. Swap the new card with your one in reserve and place that instead. The new card then becomes your reserve for future turns.
+Therefore, you will always have a reserve card to choose from.
+
+Note: This does have the potential to unbalance, as each person getting dealt separately COULD lead to you never being dealt a particular colour (however is highly unlikely)
+
+
+
+
+9. The Swapper – (2 player) (Interactive) (most complicated)
+
+This is quite hard to explain, but plays out quite simply and is really fun! Really worth the effort to learn this one.
+
+SETUP
+• Deal 5 cards to each player. This is your hand. You are free to hold them like a deck of cards.
+• Place the remaining 5 cards in a face-up market somewhere in front of you both, leaving a space in front.
+
+ON YOUR TURN
+• This variant is split into 2 phases:
+
+• Phase 1: The card selection phase – In this phase you have two options but can ONLY CHOOSE ONE.
+
+Option 1 – Place a card
+You will select one card from your hand and place it face-up in the middle of the table.
+(Your opponent will do the same, so there are two cards in the middle of the table.)
+
+• Option 2 – Swap a card with one in the Market – Exchange any card in your hand for one in the market (This means you DO NOT PLACE A CARD THIS TURN, but you do get to place cube still in phase 2)
+
+NOTE: On the first turn of a round you can not access the market. There NEEDS to always be two cards to choose from.
+
+Phase 2: Choosing your cube
+You can now pick a cube to place from the card either you OR your opponent played.
+• Both players can pick the same, or different cards.
+
+Turn Ends - These cards are NOT discarded and stay where they are on the table.
+
+On all future turns in this round, when you choose to play a card you will play it ON TOP of EITHER of the previous turn’s cards. It doesn’t have to be the card you played.
+
+However, a card can not be placed over a card FROM THIS TURN (example: You play a card over card 2, if your opponent chooses to play a card this turn instead of using the market, they must play it over card 1.
+
+Example turn:
+
+On turn two, there will be two cards on the table already from turn 1. Lets say card (1) is BLUE and card (2) is BROWN.
+Player 1 chooses to play a card: They place an orange card ON TOP of the BROWN (2) card.
+Player 2 decides they really need a yellow wheat from the market so they choose to swap a grey in their hand for the yellow in the market.
+Phase 2 now begins
+The top two visible cards are now (1) BLUE (still blue from the first round as no one placed a card over it) and 2: ORANGE (as the orange was placed over the Brown in this round)
+
+Players then choose to place either a Blue or orange cube.
+
+Play then repeats
+
+The first player to play all cards in their hand can pick any card from the market to play until the second person has used all cards in their hand.
+
+At this point you collect all 15 cards, reshuffle and repeat set-up
+
+
+
+It’s much simpler than it sounds, I promise!
+Granted I haven't played this game a ton, but being able to continue to place cubes is a sign of playing well because you've placed your cubes more efficiently than everyone else. It doesn't make sense to punish that. In addition, IIRC there's a monument that rewards empty spaces, and that would break the game if you could choose when the game ends.
+With the standard rules, in a 6 player game you only get to choose 1 cube out of every 6, which might not be to everyone's preference.
+
+If you want a little more control at the larger player counts then you could elect to use the Town Hall variant, but this variant provides another idea ...
+
+Variant
+
+The game is played as normal (with each player nominating a resource type on their turn) with the alteration that you always ignore the nomination of the player sitting directly opposite you and instead choose any resource type.
+
+
+This means you get to choose 1 in every 3 cubes - as per a 3 player game or Town Hall variant - but still retain the player interaction.
+Again, if your argument is true that some monuments are just too powerful, then won't this mean that everyone at your table will group think "I have to play that monument X to stay competitive"? Wouldn't this approach just reduce the game down too much?
+
+The nice thing about variable monuments is just that-everyone will have a different focus and will build a very different board with different objectives. Just the way you might play The Sky Baths (2 points per missing building type), Statue of the Bondmaker (hide resources you don't want on cottages), The Starloom (more points for finishing quicker) - they all lead to very different paths of how you build your town. I think the fun part is adapting your strategy to the monument you have. It would make each game different.
+
+Just for understanding, which cards are you finding too overpowered after just 5 plays? I think they seem well balanced and I don't think I would be concerned with any of them I got (not to say I love them all-but I do think you can win with any, it's just depends on how you approach the puzzle and the other cards in play). If your group has come to believe that one card will win every game, perhaps just remove that card and reintroduce it later after a ton more plays.
+Any reason why you couldn't use the 'Town Hall Rules' for solo play?
+
+I think it might increase the challenge slightly as you would only get to pick one out of every three resources...
+A came up with another 6 player variant that I think might be pretty good.
+
+Their are 2 master builders in this variant.
+
+Player #1 and #4 pick the recourse of their choice (they are siting on opposite sides of the table).
+
+The player to the left and right of player #1 also take the recourse chosen by player #1.
+
+The players to the left and right of player #4, take the recourse that player #4 chose.
+
+I'll test it out next game night.
+Other Automas I’ve Created
+CBG review
+The published version of Tiny Towns works just fine for the majority of colorblind players. This makes sense, given Peter’s own color vision deficiency and his care for accessibility, I can discern between the colors in Tiny Towns pretty well and have played the game out of the box for years without problems. The buildings are double-coded by shape, so even though some of those colors are close to each other (for me), I find it easy to tell them apart.
+
+However, the game does rely on color for the resource cubes, so while I can play the game, I know there are other colorblind gamers who could use additional help. I wanted to see if a truly playable-in-greyscale version of the game was feasible.
+For larger player counts some people find the non-interactive variant better. I don't remember what it's called in the rulebook.
+Thanks!
+Mark
+I have a few ideas...
+
+1. 3 points when fed. -1 point when unfed. (Unhappy villagers)
+2. 3 points when fed. -1 point for each adjacent factory type building. (Who wants to live next to a factory?)
+3. 1 point. When fed +1 point for each adjacent well or cathedral type building. (Increased wellness)
+4. 3 points when fed. +1 point for each Inn type building at least 2 spaces away. (Close to the pub but not too close)
+5. 3 points when fed. 0 points when next to the monument. (Because tourism is annoying to residents)
+6. 2 points when fed. +1 if in the central 4 squares.
+Hey folks,
+
+Is there any reason you all could see to not be able to play this with 7 or even 8 players? Are there any resource constraints that I'm not anticipating?
+
+All of the folks in the group I'm trying to get together own copies of the game IRL at home, but we're going to use Tabletop Simulator to play a virtual session at some point this week. It looks like the TTS version has seats for 8 people, but the original game is only up to 6. Are we safe to fill up all 8 seats?
+
+Thanks!! Hope you all are safe, healthy, and have what you need!!
+I've tried both the official solo mode and the Town Hall variant for solo play. Town Hall is by far my preferred method.
+I would probably just shuffle the deck and deal each person a card face up. Drafting seems unnecessary.
+
+But I agree with you some starting asymmetry helps dealing with unintentional collusion. In one of our 5 player games we had 3 people going mass cloister and 2 going cottage. Unsurprisingly, The cloister team ended up in top 3.
+Zombie Thread
+Has anyone tried this more simplified variant with Villagers? You place each of your Villagers in any one of the squares on the board during setup. The Villagers are not moved during play. When you build a building in a Villager's spot, the Villager becomes available to assist you like usual. However, you don't get to recycle Villagers through the Lodge back on to your board. They are one and done. So, you can use them for the 1 Villager ability or save them up for the 2/3 Villager ability.
+
+I love to play Tiny Towns with family because the rules are so simple and you can play with a lot of players. I like giving players more options since this game can be surprisingly difficult, but I don't want to overcomplicate turns so gameplay slows down.
+Both modes work well for solo, so play whichever you enjoy more. Or even better, create your own variant!. If you do, please make sure to share your custom rules with all of so we can play them as well
+Another rule. You can only have 4 coins at a time.
+Conceptually, I like this. Especially the " Both cube must always be in different location to his other board"
+If I manage to try this (after I get my copy), I may also specify "different KIND of space, i.e. corner, edge, center.
+I imagine just saying different space, you could just rotate / flip your board, however, In practice I don't think this would happen.
+As others have mentioned to the concept "copy your neighbor", it just doesn't happen in real play.
+Especially with the inclusion of the monuments. (also, if need be, Monuments could be compulsory
+
+Well thought out Variant, I will most likely be playing this 2P most of the time, and after trying RAW, I may give this a go (probably only 2 boards).
+You could almost do this with any number of players. Draw 2 and take one, then the rest of the players must take the remaining card. It's interesting for sure. I actually like town hall mode for 2 players best.
+AP means analysis paralysis (taking too much time thinking about what recourse I need and what do other players not need).
+We prefer the Town Hall variant, it seems to cut down on the AP.
+This sounds like a great idea, I will try next time I have a 6 player match
+I'm in favour of this. I'm sure we could create one.
+What would count as a 'win' in solo mode? Above 30 points? Maybe 25.
+
+Possible Acheivements:
+Starving - Win with at least 3 cottages and no granary.
+Spendthrift - Win with a full chest of coins. (Expansion)
+Urban centre - Win with cottages in the middle four squares of your town.
+Ghost town - Build 0 cottages
+Industrial Age - Win with 3 factories (the black building).
+I want to preface this by stating that not having a 5x5 grid printed on the back of the player boards was a missed opportunity. The backs are just blank. Maybe for the next print run?
+
+I haven't tried it myself yet, but I intend to play a 5x5 game solo tonight. I can use the 5x5 board in Tak or Santorini.
+
+I expect it to be great for a solo and 2p game. With more players I fear we'll encounter component shortages.
+
+I'll post some of my solo scores after I play a few times.
+(designed by
+Hey there!
+
+In my spare time I like to take games with either no solo mode or solo modes with beat your high score and give them a solo mode with a win/loss condition.
+
+You can check out one for Tiny Towns
+This sounds good to me.
+The game isn't very interactive. By using the cards to determine the cubes, you remove some of the interaction. I'll be testing out this variant soon.
+It may not be an issue, but in some games like this, you can have players with identical boards for many turns. I know that in this game, players may opt for different paths early due to their monument card. But I wonder how much the game would be affected to start out with one cube of each color on the table and players draft one of each color and place it on their board? So the game would start with each player having one cube on their board which is not the same as anyone else, then the rest of the game is played as usual.
+
+With six players you would have to put out 2 of one of the colors and that one could be randomly chosen before the draft starts.
+Thanks everyone! I'll make sure to post here after the TTS session to let you all know how it goes.
+Safe boardgaming, everyone!! <3
+Basically, there are two master builders, starting with players 1 and 4. Only the players next to them draw what they selected. Pass left and repeat.
+
+This looks like
+Round 1
+6 1 2
+3 4 5
+
+Round 2
+1 2 3
+4 5 6
+
+Round 3
+2 3 4
+5 6 1
+
+Repeat round 1, etc etc
+Where bold players are master holder for their adjacent players only.
+
+Simple
+Yes
+Current plan includes connecting multiple boards together to form 8x8 grid, along with a threat to the town that all players must join together in overcoming.
+There will likely be objectives that must be accomplished and points may be used as currency for acquiring items.
+No foreign objects will be introduced, to include pieces from other games or mixing two Tiny Town sets together.
+Still working on quite practically every element.
+Both players. How is that complicated?
+
+As to the "every one will just build exactly the same" idea ... No, they won't.
+I know-you said you don't want to discuss it, but since it's a variant thread, which I read frequently to see what kind of problems people are overcoming, I think it's important to discuss. Because a good definition of the problem can really help determine if the variant is successful at what it's trying to solve.
+
+So with that, I will say here is my perceived problem with the 2 variants you have:
+
+First, on the subject of ignoring black buildings as they are "time" consuming - that's actually one of the benefits to them that you are taking away by just placing a freebie. For example, if I see that the other builders are focusing on 3 resource buildings, I know by building one or two black buildings, then I might get the last 4 moves of the game free to myself. Having open ground at the end of the game and then calling all the shots yourself for the final resources can really payoff.
+
+Now, maybe it seems freaky with some of the buildings, like the Bank where you need others to name the resource for you, so in that case it might be fun if everyone had that on hand at the beginning. But the others can be really good on their own (drop 2 or 3 trading posts right in the middle of the board and you are in builders heaven and if other players ignore that building, I don't see how it's not a run away victory for you)
+
+Now, to the subject of the Monuments. I think that would be a fun thread to rank the monuments. Each one will cause you have merits based on building it early, middle, late, resources it requires, points it can give, etc. One of the things I like about the variable monuments is that it keeps the players a little more path independent. If we all had a shared monument as just another building, I feel like it could lead to a trap of repeating whatever everyone else is doing to keep the most optimal scoring going. The variable monuments will in the end force players to play differently which helps manage "no-why did you call for glass of all things!" moments. But if your group is really upset about distribution, then I could see that being a variant (or perhaps handing out more than 2 at the start to increase the odds you will get a good card?)
+
+However, on the thought about "first to build it gets it" - I think that's a horrible trap! Not only are you dealing with the race aspect, but what if you didn't realize someone was gunning for the same great monument that you were, you might be left with a ton of dead pieces that you can't easily undo into new buildings.
+
+Just some random thoughts on it-
+Titanic: The Game
+- Yellow Wheat. Borrowed wheat tokens from Caverna
+- Red Brick. Purchased resin brick tokens from Top Shelf Gamer.
+- Blue Glass. Borrowed (and did not return) ice tokens from
+Caverna
+The best similar-veined variant I could think of for a 5 player game is to just skip placing a cube on the turn of the player to your right (this also gives you extra time to work out what you are going to nominate on the following turn). This means you will end up selecting 1 cube in 4 - as per a 4 player game.
+
+Personally, I think the 5 player game is fine without a variant - it just results in a bit more placement angst. Potentially you could also consider playing with the Cavern variant at the 5 player count if you want it a bit more forgiving or have new players.
+Free resources aren't too good in my opinion since they fill up your board that much quicker. Plus Peter and I already put coins in the game in the first expansion. I think it's something you should try out!
+Really? What a way to ruin a fun light game. Now I'm watching like a hawk all the boards for a pattern that may or may not match a card I'm desperate to build before the other players take it. And it might be built upside down, mirrored, perhaps they skip pieces to throw me off - too much. This is more of a fun solitaire game where you are interested primarily in your own town!
+I totally missed something - I played last night, and I thought the town hall variant was the way to play...it was quite the challenge!
+Hi-Rise:
+  G
+B S
+(brick, stone, glass)
+
+4 points if placed in middle of town (i.e. one of the 4 center squares), 2 points otherwise.
+-2 if unfed
+
+Townhouse:
+  W
+L B
+(lumber, brick, wheat)
+
+Contiguous Group Score
+
+1. 2 point
+2. 5 points
+3. 9 points
+4. 13 points
+
+Groups of 5 or more townhouses score no additional points. However, multiple groups are allowed, but must be separated. e.g.
+
+
+H H C C
+
+H W C H
+
+H - W H
+
+F F H H
+
+(H - townhouse, F - farm, C - chapel, W - well)
+
+The above would score 13x2 = 26 points for the townhouses. 8x3 = 24 for chapels, and 2x2 = 4 points for wells.
+
+total: 26 + 24 + 4 - 1 = 53 points
+
+Mansion:
+  L
+G W
+(glass, wheat, lumber)
+
+3 points. +1 for every empty space surrounding it (+8 max).
+-1 if unfed
+I haven't played this game, but one thing I've heard as a possible problem is that you have the potential for one player to keep playing after everyone else has exhausted their board, meaning that person will also almost always win. Again, not having played it I can't attest to whether this is an issue or not.
+
+That makes me wonder if anyone's tried a variant where the game-end condition is one person cannot place a cube, then rather than them just being out instead that triggers the "last round," a rule that I've come across in many other games. Is this actually a problem, or am I just making it up? If so, would this be a workable solution? How would it change the dynamic of the game?
+Tiny Towns
+What does it means AP?
+I think one major issue you'll need to figure out is what to do with buildings that care about other stuff in the same row/column. Those would play out very differently on an 8*8 board.
+This is a variant of the Town Hall variant intended for 2-players to give a play experience closer to a 3 or 4 player game.
+
+In a 2-player game with the normal rules you get to choose every second cube - which lessens some of the placement angst compared to a 3 or 4 player game. But if you use the straight Town Hall variant then you completely lose the player interaction of choosing something which is good for you but bad for the other player. This variant tries to deliver something closer to an emulation of a 3 or 4 player game.
+
+Essentially the resource decks are used to emulate 1 or 2 dummy players rather than completely replacing the Master Builder action. This retains the interaction between players, while not giving the players control over every second cube.
+
+Variant
+
+The resources cards are initially shuffled and drawn as per usual Town Hall variant, i.e., initially shuffle all cards and then discard the top 5 cards, and repeat whenever the last resource card is drawn.
+
+A "round" consists of:
+1. Draw and play 1 resource card.
+2. Player 1 nominates a resource type.
+3. Player 2 nominates a resource type.
+
+This variant basically emulates a 3 player game.
+
+---
+
+[An alternative variant which emulates a 4 player game would be as follows:
+
+A "round" consists of:
+1. Draw and play 1 resource card.
+2. Player 1 nominates a resource type.
+3. Draw and play 1 resource card.
+4. Player 2 nominates a resource type.
+
+This gives less overall resource control than the 3-player variant and has a more symmetric turn order.]
+This is already the effect of the trading post (black building).
+?
+like sagrada?
+I also thinking about try this variant
+Hi Mark, have you given up on this? I recently got this game and got very excited when I saw you were planning to create one of your automas for it. I already use a few of your other ones - they are great.
+Thanks for putting this together! Do you think that the small market and the biblios variants can work with more players by drawing 1 card more than the number of players?
+), one of my favorite games released in 2019. In that review, designer
+Absolutely. I haven't had a chance to play test the variants yet though.
+Nice!
+Hi Jessica! I once led a game of 1,000 players... it works with more than 6! If you're playing in TTS, the only limitation will be the number of Monument cards if playing with 8. Normally, you deal 2 Monument cards to each player and they select one to play with for the round. I recommend simply dealing 1 random Monument to each player, or playing without Monuments.
+THE VERDICT
+Both players being able to build the same monument is problematic because of what happens when to people build it simultaneously, who gets it?
+Replacing the Cubes
+Given the theme and what the cubes represent, I thought it could be fun to upgrade beyond my typical method (marking up components with a sharpie) by using new components.
+- Brown Wood. Borrowed wood components from
+Variants are a great way to customize your game experience. Some variants may fit some group of players while wont fit another.
+
+Thank you for the thread, it is always interesting to see the custom rules players come with in order to enjoy more the game .
+The game board is from Tak.
+I have a second 5x5 board in my copy of Santorini if I want to try it with two players.
+I did catch that-I suggested that if everyone is building the same monument as if it were just another normal building type (the only one I think would have merit), I just worry you risk following the same path as the majority of players. It kind of goes to your last comment. Best to be in sync with what everyone is doing and follow along. If I can instantly use each thing they callout, the better it is for my tiny town!
+Good idea! I got to try it too!
+) and so it's difficult to co-operate.
+I am thinking about suggesting this to my 5-player group:
+
+Everyone gets a factory at the start of the game. It does not get placed in the town, but off the board. You get to pick one color for the factory, but you must pick it at the start of the game and it cannot be changed.
+
+Do you think that would work?
+(
+Hehe, I thought about Coloretto drafting as well, though in that case it could only last a certain number of rounds or else it would be too beneficial to just keep drafting single cubes. I think it would be fun, though a very different game.
+Crafty Games

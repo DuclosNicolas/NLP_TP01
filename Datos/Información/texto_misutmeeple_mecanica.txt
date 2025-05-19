@@ -1,0 +1,35 @@
+Tiny Townses un diseño con mecánica principal de construcción de patrones en el que cada jugador debe intentar conformar la ciudad más valiosa según una serie de edificios. Cada edificio se construye conformando un patrón de recursos sobre un tablero cuadriculado. En cada turno, el jugador activo nombra un recurso, y todos los jugadores deben colocarlo en una casilla libre de su tablero. Cuando un jugador conforma el patrón de algún edificio, puede construirlo, retirando todos los cubos, colocando el edificio en una de las casillas que estos ocupaban. La participación de un jugador en la partida finaliza cuando se queda sin espacios libres en su cuadricula, procediéndose al recuento final cuando todos han acabado. A los puntos proporcionados por los edificios habrá que restar un punto por cada casilla con un recurso.
+Comencemos por elTablero. Cada jugador dispondrá de una cuadricula de cuatro filas y cuatro columnas en la que desarrollar su ciudad. Por norma general, en cada casilla solo podrá colocarse un elemento.
+Estos elementos podrán ser de dos tipos. Por un lado, losRecursos, representados con cubos de cinco colores. En cada turno, el jugador activo escogerá uno de los cinco tipos y todos los jugadores tendrán que colocar un cubo de dicho tipo en una casilla libre de su tablero.
+Por otro lado, tenemos losEdificios, representados con siete tipos distintos de piezas. A la hora de construir un edificio, será necesario conformar un patrón de recursos para sustituir todos ellos por la pieza del edificio correspondiente, que deberá ocupar una de las casillas en las que se encontraban los recursos retirados.
+Los patrones que permiten construir los edificios vienen determinados por lasCartas de Edificio. Hay varias cartas para cada tipo, y en cada partida se formará un conjunto distinto tomando una carta de cada tipo (con la excepción de las cabañas, que siempre estará presente). Los patrones indicados en la carta pueden ser rotados y reflejados sobre el tablero. En cada carta, además, se indica el efecto del edificio y los posibles puntos de victoria que proporcionan. En la esquina superior derecha aparece el símbolo identificativo del tipo de edificio (de cara a efectos con otros edificios).
+
+Por último, cada jugador dispondrá de unaCarta de Monumentoque escoge al comienzo de la partida. Este monumento proporciona un beneficio exclusivo, así como un patrón específico para poder se construido.
+
+Con esto tenemos suficiente.
+1. Se mezclan las cartas de edificio separadas por tipo (excepto la cabaña, que solo hay una carta). Tras esto, se revela una carta de cada tipo (7 cartas en total) y se devuelve el resto a la caja.
+2. Se forma una reserva general con los recursos y los edificios.
+3. Se mezcla el mazo de cartas de edificio y se entregan 2 a cada jugador. De estas, cada jugador se queda con una y descarta la otra. El resto del mazo y las cartas descartadas se devuelven a la caja.
+4. Cada jugador recibe un tablero personal y una pieza de monumento.
+5. Se escoge aleatoriamente al jugador inicial y se le entrega el marcador de maestro constructor.
+¡Ya podemos comenzar!
+Una partida deTiny Townsse desarrolla a lo largo de un número indeterminado de turnos en los que un jugador será el maestro constructor (comenzando por el jugador inicial y continuando en el sentido de las agujas del reloj).
+En cada turno, el maestro constructor debe nombrar uno de los cinco recursos disponibles (trigo, ladrillo, piedra, cristal o madera). Cada jugador, incluido el maestro constructor, tomará un cubo de dicho tipo y lo colocará en una casilla libre de su tablero.
+Tras esto, cualquier jugador que en su tablero disponga de patrones coincidentes con algún tipo de edificio podrá construir. Para ello, retirará todos los cubos que conforman el patrón y colocarán el edificio en una de las casillas que ocupaban los recursos recién retirados.
+Tras esto, el marcador de maestro constructor pasa al jugador de la izquierda.
+Si un jugador se queda sin espacio en su ciudad y no puede construir, finalizará su participación en la partida, a la espera de que el resto de jugadores haya lo propio.
+La partida finaliza una vez que todos los jugadores han completado su ciudad. Se procede al recuento final, evaluando cada carta de edificio. A los puntos acumulados habrá que restar un punto por cada cubo de recurso presente en el tablero del jugador.
+- El jugador con más puntos de victoria será el vencedor. En caso de empate, se aplican los siguientes criterios:
+- El jugador que antes finalizase su actuación en la partida.
+- El jugador con menos casillas libres en su tablero.
+- El jugador con más cabañas.
+Si la igualdad sigue sin romperse, los jugadores comparten la victoria.
+- Regla de la Caverna: se permite a los jugadores no colocar hasta 2 recursos nombrados por sus contrincantes. Estos recursos se dejan a un lado (para llevar la cuenta de cuantos se han rechazado) y no penalizan al final de la partida.
+- Modo Ayuntamiento: se utiliza el mazo de cartas. Se barajan y se descartan sin revelar 5 de ellas. En cada ronda, se revelan 2 cartas del mazo que indican los 2 recursos que cada jugador debe colocar. Tras esto, cada jugador podrá escoger 1 recurso a su elección para colocarlo en su tablero (no se condiciona al resto de jugadores). Si el mazo de recursos se agota, se baraja la pila de descarte y se vuelve a conformar, de nuevo descartando las 5 primeras cartas sin revelarlas.
+- Modo en Solitario: antes de preparar el juego, se retiran del mazo ciertas cartas. Se usa el mazo de alcalde. En cada turno, se revelan las tres siguientes cartas de recursos y el jugador escoge una de ellas para colocar el recurso correspondiente en su tablero. La carta escogida se coloca bocabajo en el fondo del mazo y se revela una nueva para ocupar el espacio de la anterior. El final de la partida es el habitual. El objetivo es intentar conseguir la máxima puntuación posible. Se tiene la siguiente tabla:9 Puntos o Menos: Aspirante a Arquitecto.De 10 a 17 Puntos: Aprendiz de Constructor.De 18 a 24 Puntos: Carpintero.De 25 a 31 Puntos: Ingeniero.De 32 a 37 Puntos: Planificador.38 o más Puntos: Maestro Arquitecto.
+- 9 Puntos o Menos: Aspirante a Arquitecto.
+- De 10 a 17 Puntos: Aprendiz de Constructor.
+- De 18 a 24 Puntos: Carpintero.
+- De 25 a 31 Puntos: Ingeniero.
+- De 32 a 37 Puntos: Planificador.
+- 38 o más Puntos: Maestro Arquitecto.
